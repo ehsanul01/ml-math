@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(winget --version)",
+      "Read(//c/Users/haque/AppData/Roaming/**)",
+      "Read(//c/Users/haque/**)",
+      "Bash(command -v node)",
+      "Bash(node -e \"console.log\\(process.execPath\\)\")",
+      "Bash(git --version)",
+      "Bash(gh --version)"
+    ]
+  }
+}
