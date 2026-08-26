@@ -14,10 +14,10 @@ An interactive visual reference for the probability and statistics concepts used
 - **Covariance & Correlation** — Joint variability, covariance matrix, PCA connection
 
 ## Tech Stack
-
-- React + TypeScript
-- Vite
-- Canvas API (all charts drawn from scratch, no chart library)
+       
+ - React + TypeScript
+ - Vite
+ - Canvas API (all charts drawn from scratch, no chart library)
 
 ## Run Locally
 
